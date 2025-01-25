@@ -1,1 +1,9 @@
 # qa_python
+
+test_add_new_book_add_one_book - Добавление книг
+test_add_new_book_add_two_similar - Добавление двух одинаковых книг
+test_set_book_genre_book_in_books_genre - Позитивные и негативные сценарии для функции set_book_genre
+test_get_books_with_specific_genre_add_and_get_specific_genre - Получение Жанров из функции get_books_with_specific_genre
+test_get_books_for_children_genre_add_and_get_children_genre - Получение Жанров из функции get_books_for_children_genre
+test_add_book_in_favorites_add_books_positive - Добавление книги в избранное
+test_delete_book_from_favorites_delete_book_positive - Удаление книги из избранного
